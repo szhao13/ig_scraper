@@ -17,6 +17,7 @@ pyautogui.FAILSAFE = True
 
 pyautogui.moveTo(100, 150)
 
+
 # time.sleep(1)
 # im1 = pyautogui.screenshot(region=(0, 0, 900, 1800))
 # im1.save('my_screenshot.png')
