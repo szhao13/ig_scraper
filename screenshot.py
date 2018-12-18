@@ -31,6 +31,7 @@ if username in text:
 	print("user found!")
 else:
 	print("user not found :(")
+	
 # print(pytesseract.image_to_string(Image.open('man_crop.png')))
 
 #im3 = pyautogui.screenshot()
