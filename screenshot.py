@@ -35,7 +35,7 @@ def take_screenshot():
 text = take_screenshot()
 # print(text)
 while username not in text:
-	pyautogui.scroll(-5000)
+	pyautogui.scroll(-4000)
 	text = take_screenshot()
 	# print(text)
 	# print("user not found :(")
